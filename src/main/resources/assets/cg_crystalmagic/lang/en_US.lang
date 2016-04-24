@@ -1,0 +1,91 @@
+< en_US.lang - English localization file for the Crystal Magic >
+
+# Book
+item.ItemCrystalCodex.name=Crystal Codex
+
+# Items
+item.ItemDebugOrePlants.name=Ore Plant Debugger
+item.ItemCrystalTuningFork.name=Crystal Tuning Fork
+
+# Crystal Items
+item.ItemRoughCrystal.name=Rough Crystal
+item.ItemCrystal.name=Crystal
+item.ItemRoughCrystalFragment.name=Rough Crystal Fragment
+item.ItemCrystalFragment.name=Crystal Fragment
+item.ItemNatureCrystal.name=Nature Crystal
+item.ItemFireCrystal.name=Fire Crystal
+item.ItemWaterCrystal.name=Water Crystal
+item.ItemAirCrystal.name=Air Crystal
+item.ItemLightCrystal.name=Light Crystal
+item.ItemDarkCrystal.name=Dark Crystal
+
+# Sockets
+item.ItemEmptySocket.name=Empty Socket
+item.ItemCrystalizedSocket.name=Crystalized Socket
+item.ItemTerraSocket.name=Terra Socket
+item.ItemLuckySocket.name=Lucky Socket
+item.ItemSpeedySocket.name=Speedy Socket
+item.ItemFierySocket.name=Fiery Socket
+
+# OreCrystalFragment Items
+item.ItemCoalCrystalFragment.name=Coal Crystal Fragment
+item.ItemRedstoneCrystalFragment.name=Redstone Crystal Fragment
+item.ItemLapisCrystalFragment.name=Lapis Crystal Fragment
+item.ItemQuartzCrystalFragment.name=Quartz Crystal Fragment
+item.ItemIronCrystalFragment.name=Iron Crystal Fragment
+item.ItemGoldCrystalFragment.name=Gold Crystal Fragment
+item.ItemDiamondCrystalFragment.name=Diamond Crystal Fragment
+item.ItemEmeraldCrystalFragment.name=Emerald Crystal Fragment
+
+# Tools and Weapons
+item.ItemCrystalEdgedPickaxe.name=Crystal Edged Pickaxe
+
+# Armor
+item.ItemApprenticeHood.name=Apprentice Hood
+item.ItemApprenticeRobe.name=Apprentice Robe
+item.ItemApprenticeLeggings.name=Apprentice Leggings
+item.ItemApprenticeBoots.name=Apprentice Boots
+
+# Blocks
+tile.crystalOre.name=Crystal Ore
+tile.goldenBars.name=Golden Bars
+tile.goldenCloud.name=Golden Cloud
+
+# Machines
+tile.socketBench.name=Socket Bench
+container.socketBench=Socket Bench
+
+# OreCrystalPlant Blocks
+tile.CrystalPlant.name=Crystal Plant
+tile.CoalCrystalPlant.name=Coal Crystal Plant
+tile.RedstoneCrystalPlant.name=Redstone Crystal Plant
+tile.LapisCrystalPlant.name=Lapis Crystal Plant
+tile.QuartzCrystalPlant.name=Quartz Crystal Plant
+tile.IronCrystalPlant.name=Iron Crystal Plant
+tile.GoldCrystalPlant.name=Gold Crystal Plant
+tile.DiamondCrystalPlant.name=Diamond Crystal Plant
+tile.EmeraldCrystalPlant.name=Emerald Crystal Plant
+
+# OreInfusedStone Blocks
+tile.CrystalInfusedStone.name=Crystal Infused Stone
+tile.CoalInfusedStone.name=Coal Infused Stone
+tile.RedstoneInfusedStone.name=Redstone Infused Stone
+tile.LapisInfusedStone.name=Lapis Infused Stone
+tile.QuartzInfusedStone.name=Quartz Infused Stone
+tile.IronInfusedStone.name=Iron Infused Stone
+tile.GoldInfusedStone.name=Gold Infused Stone
+tile.DiamondInfusedStone.name=Diamond Infused Stone
+tile.EmeraldInfusedStone.name=Emerald Infused Stone
+
+# Creative Tab
+itemGroup.cg_crystalmagic=Crystal Magic
+
+# Achievements
+achievement.crystalmagic:roughCrystalFragmentPickup=Do You Believe In Magic?
+achievement.crystalmagic:roughCrystalFragmentPickup.desc=Find a rough crystal fragment.
+achievement.crystalmagic:roughCrystalPickup=Abracadabra, I want to reach out and grab ya!
+achievement.crystalmagic:roughCrystalPickup.desc=Find a rough crystal.
+achievement.crystalmagic:crystalEdgedPickaxeCraft=Gem Miner
+achievement.crystalmagic:crystalEdgedPickaxeCraft.desc=Crafted a Crystal Edged Pickaxe.
+achievement.crystalmagic:goldenBarsCraft=The Pearly Gates
+achievement.crystalmagic:goldenBarsCraft.desc=Crafted Golden Bars.

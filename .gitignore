@@ -1,0 +1,48 @@
+## Windows
+Thumbs.db
+
+## gradle
+/.gradle
+/build
+
+## ForgeGradle
+/run
+
+## eclipse
+/.settings
+/.metadata
+/.classpath
+/.project
+/eclipse
+/bin
+
+## intellij
+/out
+/.idea
+/atlassian-ide-plugin.xml
+/*.ipr
+/*.iws
+/*.iml
+
+## Private Stuffs
+/private.properties
+
+## Jars
+*.jar
+!/gradle/wrapper/gradle-wrapper.jar
+
+## Minecraft
+/logs
+/eula.txt
+/ops.json
+/server.properties
+/usercache.json
+/whitelist.json
+/banned-ips.json
+/banned-players.json
+/config
+/saves
+/options.txt
+/usernamecache.json
+/world
+/crash-reports
